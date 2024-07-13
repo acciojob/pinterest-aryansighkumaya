@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+img{
+	width:330px;
+	height:300px;
+}
+.hero{
+	width:800px;
+	display:flex;
+	justify-content:flex-start;
+	gap:100px;
+		
+}
+.interest{
+	width:100px
+}
+Button{
+	background-color:red;
+	color:white;
+	border-radius:5px;
+	border:5px none
+}
